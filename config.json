@@ -1,6 +1,22 @@
 {
   "Photos": [
     {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/093F6445-F130-47A5-9187-0D0CC615DCA4.min.jpg",
+      "width": 3752,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/093F6445-F130-47A5-9187-0D0CC615DCA4.placeholder.jpg",
+      "path": "./photos/Photos/093F6445-F130-47A5-9187-0D0CC615DCA4.jpg"
+    },
+    {
+      "height": 2816,
+      "compressed_path": "./photos/Photos/1882B4A0-1EEB-419C-8343-D54A9E27C090.min.jpeg",
+      "width": 3895,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/1882B4A0-1EEB-419C-8343-D54A9E27C090.placeholder.jpeg",
+      "path": "./photos/Photos/1882B4A0-1EEB-419C-8343-D54A9E27C090.jpeg"
+    },
+    {
       "height": 4032,
       "compressed_path": "./photos/Photos/IMG_0150.min.jpeg",
       "width": 3024,
@@ -17,12 +33,44 @@
       "path": "./photos/Photos/Artboard 1@2x 2.png"
     },
     {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/1D24B405-FD73-488B-BACD-2010EBEFAFE6.min.jpeg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/1D24B405-FD73-488B-BACD-2010EBEFAFE6.placeholder.jpeg",
+      "path": "./photos/Photos/1D24B405-FD73-488B-BACD-2010EBEFAFE6.jpeg"
+    },
+    {
       "height": 1500,
       "compressed_path": "./photos/Photos/tetons.min.png",
       "width": 2000,
       "compressed": false,
       "placeholder_path": "./photos/Photos/tetons.placeholder.png",
       "path": "./photos/Photos/tetons.png"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/03271431-6B2D-494F-99BF-35E935115095.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/03271431-6B2D-494F-99BF-35E935115095.placeholder.jpg",
+      "path": "./photos/Photos/03271431-6B2D-494F-99BF-35E935115095.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/68762D97-8BA1-4AF4-A152-C00726AF1343.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/68762D97-8BA1-4AF4-A152-C00726AF1343.placeholder.jpg",
+      "path": "./photos/Photos/68762D97-8BA1-4AF4-A152-C00726AF1343.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/3B5782D0-9B53-4A6F-BDDA-E013B845C60F.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/3B5782D0-9B53-4A6F-BDDA-E013B845C60F.placeholder.jpg",
+      "path": "./photos/Photos/3B5782D0-9B53-4A6F-BDDA-E013B845C60F.jpg"
     },
     {
       "height": 3024,
@@ -42,11 +90,35 @@
     },
     {
       "height": 3024,
+      "compressed_path": "./photos/Photos/4EC40BA2-AE36-4BF1-8522-830459A87C59.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/4EC40BA2-AE36-4BF1-8522-830459A87C59.placeholder.jpg",
+      "path": "./photos/Photos/4EC40BA2-AE36-4BF1-8522-830459A87C59.jpg"
+    },
+    {
+      "height": 3024,
       "compressed_path": "./photos/Photos/IMG_0133.min.jpg",
       "width": 4032,
       "compressed": false,
       "placeholder_path": "./photos/Photos/IMG_0133.placeholder.jpg",
       "path": "./photos/Photos/IMG_0133.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/A5C9F0B9-5408-48E6-8B85-80FFCDF5E36D.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/A5C9F0B9-5408-48E6-8B85-80FFCDF5E36D.placeholder.jpg",
+      "path": "./photos/Photos/A5C9F0B9-5408-48E6-8B85-80FFCDF5E36D.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/6BD7EE6E-A1FE-4F73-AF66-5B89C6E5409E.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/6BD7EE6E-A1FE-4F73-AF66-5B89C6E5409E.placeholder.jpg",
+      "path": "./photos/Photos/6BD7EE6E-A1FE-4F73-AF66-5B89C6E5409E.jpg"
     },
     {
       "height": 4032,
