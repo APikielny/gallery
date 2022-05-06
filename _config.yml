@@ -30,6 +30,8 @@ max_height: 400
 # Handle
 instagram: apikielny
 
+compressed: False
+
 ######################
 # END OF CONFIG CODE #
 #  Ignore below :)   #

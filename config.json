@@ -9,6 +9,30 @@
       "path": "./photos/Photos/IMG_0150.jpeg"
     },
     {
+      "height": 2732,
+      "compressed_path": "./photos/Photos/Artboard 1@2x 2.min.png",
+      "width": 1536,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/Artboard 1@2x 2.placeholder.png",
+      "path": "./photos/Photos/Artboard 1@2x 2.png"
+    },
+    {
+      "height": 1500,
+      "compressed_path": "./photos/Photos/tetons.min.png",
+      "width": 2000,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/tetons.placeholder.png",
+      "path": "./photos/Photos/tetons.png"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/bryce.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/bryce.placeholder.jpg",
+      "path": "./photos/Photos/bryce.jpg"
+    },
+    {
       "height": 4032,
       "compressed_path": "./photos/Photos/IMG_0130.min.jpg",
       "width": 3024,
