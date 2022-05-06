@@ -7,6 +7,46 @@
       "compressed": false,
       "placeholder_path": "./photos/Photos/IMG_0150.placeholder.jpeg",
       "path": "./photos/Photos/IMG_0150.jpeg"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Photos/IMG_0130.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/IMG_0130.placeholder.jpg",
+      "path": "./photos/Photos/IMG_0130.jpg"
+    },
+    {
+      "height": 3024,
+      "compressed_path": "./photos/Photos/IMG_0133.min.jpg",
+      "width": 4032,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/IMG_0133.placeholder.jpg",
+      "path": "./photos/Photos/IMG_0133.jpg"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Photos/IMG_0152.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/IMG_0152.placeholder.jpg",
+      "path": "./photos/Photos/IMG_0152.jpg"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Photos/IMG_0150.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/IMG_0150.placeholder.jpg",
+      "path": "./photos/Photos/IMG_0150.jpg"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/Photos/IMG_0151.min.jpg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/Photos/IMG_0151.placeholder.jpg",
+      "path": "./photos/Photos/IMG_0151.jpg"
     }
   ]
 }
